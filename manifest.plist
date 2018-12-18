@@ -10,9 +10,7 @@
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
-					<key>url</key>
-					
-<string><![CDATA[https://pro-bd.fir.im/3982f28faba764f5112fe55af60e97c583d27dfe?auth_key=1545125024-0-9b1583649b4a4026bdaa53857e31cd6e-38114bb0b81475ad25f601b4c65b3a8b]]></string>
+					<key>url</key> <a href='itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/Echo-BraveShine/IPADownloadsServers/master/manifest.plist'>跳转</a>
 				</dict>
 				<dict>
 					<key>kind</key>
