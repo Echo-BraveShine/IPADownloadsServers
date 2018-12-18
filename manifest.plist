@@ -13,7 +13,7 @@
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/Echo-BraveShine/IPADownloadsServers/master/hyf1214-resigned.ipa</string>
 				</dict>
-				<dict>
+<!-- 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
@@ -24,7 +24,7 @@
 					<string>full-size-image</string>
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/Echo-BraveShine/IPADownloadsServers/master/512.png</string>
-				</dict>
+				</dict> -->
 			</array>
 			<key>metadata</key>
 			<dict>
